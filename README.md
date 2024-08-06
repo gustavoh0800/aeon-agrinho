@@ -25,4 +25,4 @@ Quanto a acessibilidade:
 O site apresenta recursos de acessibilidade. Todas as imagens apresentam a tag “alt” para descrições de imagens em seu código. E o site apresentou um resultado de 90.36% no ASES, uma plataforma do governo federal para avaliar o quão acessível é o site.
 
 Quanto a interface de maneira responsiva:
-O site apresenta 4 “@media screen” que foram modificadas para tornar o site de maneira responsiva em diferentes formatos de tela, porém, infelizmente, a visualização em dispositivos móveis não acabou sendo concluída.
+O site apresenta 4 “@media screen” que foram modificadas para tornar o site de maneira responsiva em diferentes formatos de tela.
