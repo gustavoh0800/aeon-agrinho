@@ -1,6 +1,6 @@
 Olá, me chamo Gustavo, sou aluno do segundo ano de análise e desenvolvimento no centro estadual de educação profissional Paulo Renato Souza, no município de Terra Roxa.
 
-Sobre o projeto.
+Sobre o projeto:
 O meu projeto é sobre um site de uma cooperativa fictícia de energia sustentável chamada Aeon. Ela visa para baratear o uso da energia sustentável, baseado na democratização da energia de maneira fácil e prática. Essa democratização ocorreria mediante três etapas:
 
 Distribuição:
